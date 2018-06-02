@@ -1,0 +1,15 @@
+﻿  DetectKeyPoints.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\sample_consensus\model_types.h(99): warning C4996: 'pcl::SAC_SAMPLE_SIZE': This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class
+  c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\sample_consensus\model_types.h(99): note:  см. объявление "pcl::SAC_SAMPLE_SIZE"
+c:\program files\pcl 1.8.0\3rdparty\flann\include\flann\util\serialization.h(363): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\program files\pcl 1.8.0\3rdparty\flann\include\flann\util\serialization.h(407): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\program files\pcl 1.8.0\3rdparty\flann\include\flann\util\saving.h(65): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+c:\program files\pcl 1.8.0\3rdparty\flann\include\flann\util\saving.h(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+c:\program files\pcl 1.8.0\3rdparty\flann\include\flann\util\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+  Server.vcxproj -> C:\Users\Сергей\Documents\Visual Studio 2017\DiplomWithInterface\x64\Debug\Server.exe

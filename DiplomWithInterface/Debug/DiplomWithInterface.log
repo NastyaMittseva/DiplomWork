@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\сергей\documents\visual studio 2017\diplomwithinterface\diplomwithinterface\myform.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: Єюўър тїюфр фюыцэр с√Є№ юяЁхфхыхэр

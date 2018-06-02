@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\сергей\documents\visual studio 2017\diplomwithinterface\diplomwithinterface\myform.h(408): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\сергей\documents\visual studio 2017\diplomwithinterface\diplomwithinterface\myform.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  DiplomWithInterface.vcxproj -> C:\Users\Сергей\Documents\Visual Studio 2017\DiplomWithInterface\x64\Debug\DiplomWithInterface.exe
